@@ -33,5 +33,3 @@ Join our growing community and get involved in our projects:
 - [LinkedIn](https://linkedin.com/company/woahai)
 
 For more information or to discuss our services, feel free to reach out to us at [ai@woahai.com](mailto:ai@woahai.com).
-
-[![WoahAI Logo](https://share.woahlab.com/-WTxfNMuqAW)](https://woahai.com/)
