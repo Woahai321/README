@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=woahai.com&style=for-the-badge&url=https%3A%2F%2Fwoahai.com)](https://woahai.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/woahai)
 
-![WoahAI Logo]([https://woahai.com/fepsatih/2022/09/Untitled-2-1-1536x614.png.webp](https://woahai.com/))
+![WoahAI Logo]([https://woahai.com/fepsatih/2022/09/Untitled-2-1-1536x614.png.webp](https://share.woahlab.com/-K8nJNN7uue)](https://woahai.com/))
 
 Welcome to **WoahAI** :rocket:, an AI-powered solutions and research company revolutionizing the world of technology with our cutting-edge artificial intelligence services. We cater to a diverse range of creative and technological needs, including image and video editing, image and video generation, website creation, hosting, and coding. Check out our website at [woahai.com](https://woahai.com/).
 
