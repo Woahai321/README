@@ -34,4 +34,4 @@ Join our growing community and get involved in our projects:
 
 For more information or to discuss our services, feel free to reach out to us at [ai@woahai.com](mailto:ai@woahai.com).
 
-![WoahAI Logo]([https://woahai.com/fepsatih/2022/09/Untitled-2-1-1536x614.png.webp](https://woahai.com/))
+[![WoahAI Logo](https://share.woahlab.com/-WTxfNMuqAW)](https://woahai.com/)
