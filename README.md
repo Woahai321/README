@@ -2,6 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=woahai.com&style=for-the-badge&url=https%3A%2F%2Fwoahai.com)](https://woahai.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/woahai)
+[![Discord Server: WoahAI](https://img.shields.io/discord/1017220113159700550?color=7289DA&label=Discord%20Server&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/SePkKkUUAG)
+[![Top.gg: WoahDream Bot](https://img.shields.io/badge/Top.gg-My%20Bot-brightgreen?style=for-the-badge)](https://top.gg/bot/1124468650154397836)
+
+
 
 [![WoahAI Logo](https://woahai.com/fepsatih/2022/09/Untitled-2-1-1536x614.png.webp)](https://woahai.com/)
 
