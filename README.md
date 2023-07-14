@@ -11,6 +11,8 @@
 
 Welcome to **WoahAI** :rocket:, an AI-powered solutions and research company revolutionizing the world of technology with our cutting-edge artificial intelligence services. We cater to a diverse range of creative and technological needs, including image and video editing, image and video generation, website creation, hosting, and coding. Check out our website at [woahai.com](https://woahai.com/).
 
+![Discord Server](https://invidget.switchblade.xyz/SePkKkUUAG)
+
 ## :mag_right: About Us
 
 At WoahAI, our mission is to harness the power of AI to develop innovative applications that elevate businesses, streamline workflows, and empower research. We're committed to providing top-notch AI solutions and fostering a strong community of AI enthusiasts.
@@ -34,6 +36,7 @@ At WoahAI, our mission is to harness the power of AI to develop innovative appli
 
 Join our growing community and get involved in our projects:
 
+- [Discord Server](https://invidget.switchblade.xyz/SePkKkUUAG)
 - [LinkedIn](https://linkedin.com/company/woahai)
 
 For more information or to discuss our services, feel free to reach out to us at [ai@woahai.com](mailto:ai@woahai.com).
