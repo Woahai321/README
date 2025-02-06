@@ -7,7 +7,7 @@
 
 
 
-[![WoahAI Logo](https://woahai.com/fepsatih/2022/09/Untitled-2-1-1536x614.png.webp)](https://woahai.com/)
+[![WoahAI Logo](https://share.woahlab.com/-Rt6hSRvFZi)](https://woahai.com/)
 
 Welcome to **WoahAI** :rocket:, an AI-powered solutions and research company revolutionizing the world of technology with our cutting-edge artificial intelligence services. We cater to a diverse range of creative and technological needs, including image and video editing, image and video generation, website creation, hosting, and coding. Check out our website at [woahai.com](https://woahai.com/).
 
